@@ -1,0 +1,6 @@
+Autor1 Titulo1 ISBN1 2001 5 5
+Autor2 Titulo2 ISBN2 1995 3 2
+anderson exemplo1 isbn3 2024 3 3
+andre c ISBN2 2018 10 10
+teste teste teste 2010 5 5
+Andre-Backes Linguagem-C-Descomplicada ISBN2018 2018 10 10
